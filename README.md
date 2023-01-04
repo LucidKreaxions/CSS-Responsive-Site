@@ -1,2 +1,2 @@
 # CSS-Responsive-Site
-Responsive Website using CSS
+Responsive Website using BTML + CSS
