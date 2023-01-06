@@ -18,3 +18,28 @@ body{
     background-color: coral;
     color: #fff;
 }
+
+#navbar{
+    background-color: #333;
+    color: #fff;
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none; /*Getting rid of the bullet points*/
+}
+
+#navbar li{
+    display: inline; /*Making the list items inline instead of block*/
+}
+
+#navbar a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px; /*Preventing them from being too close together*/
+}
+
+#showcase{
+    background-image: url(".../images");
+}
