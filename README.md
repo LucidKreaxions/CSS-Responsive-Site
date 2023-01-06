@@ -2,7 +2,7 @@
 
 # Responsive Website using HTML + CSS
 
-Write the project description here...
+Creating a simple portfolio website for practicing CSS
 
 
 ## Technologies Used
