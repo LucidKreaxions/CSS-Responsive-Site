@@ -1,0 +1,20 @@
+body{
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    /*Hidden so that there are no scroll bars even if something goes outside of the container*/
+}
+
+#main-header{
+    background-color: coral;
+    color: #fff;
+}
